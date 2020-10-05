@@ -1,2 +1,4 @@
 # hello-world
-Starter reposirtory
+Starter repository
+
+I've started the long journey of learning coding! Wish me luck!!!
